@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": [
+        "9.Abstract Class",
+        "8.Access Modifiers",
+        "7.Inheritance",
+        "6.Strings",
+        "5.Static",
+        "4.Array",
+        "3.Loops",
+        "2.operators",
+        "16.Collections",
+        "15.JAVA IO",
+        "14.Exceptions",
+        "13.Method Overloading",
+        "12.Constructors",
+        "10.Interfaces",
+        "1. java basics",
+        "11.This and Super"
+    ]
+}
